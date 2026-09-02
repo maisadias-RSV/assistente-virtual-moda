@@ -1,0 +1,7 @@
+# A aplicação principal (src/app.py) não tem nenhuma dependência externa
+# obrigatória — usa apenas a biblioteca padrão do Python 3.10+.
+#
+# A dependência abaixo é opcional, usada apenas para rodar os testes com
+# o framework pytest (o relatório de avaliação também pode ser gerado sem
+# pytest, com `python src/tests/test_app.py`).
+pytest>=8.0
